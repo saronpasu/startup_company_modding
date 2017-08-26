@@ -559,7 +559,17 @@
     "browse_workshop": "ワークショップを見る",
     "mod_failed": "<b>{name}</b> を解凍できませんでした。連絡先の作成者に連絡してください。<br>",
     "publish_to_steam": "Steam に公開する",
-    "update_on_steam": "Steam にアップロードしています",
-    "uploading": "アップロードを実行中..."
+    "update_on_steam": "Steam にMODを更新する",
+    "uploading": "アップロードを実行中...",
+    "moving_tips": "<b>右クリック</b> で再配置または削除が行えます",
+    "managers_to_control": "マネージャーを管理",
+    "affected_employees": "影響を受ける従業員",
+    "go_to_employee": "従業員を確認",
+    "inbox": "受信メール",
+    "list": "リスト",
+    "stock_buy_confirm": "この株 {amount} を {price} で購入します。よろしいですか？",
+    "stock_sell_confirm": "この株 {amount} を {price} で売却します。よろしいですか？",
+    "stock_transaction": "{amount} {name} 株"
+
 
 }
